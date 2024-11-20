@@ -1,3 +1,4 @@
+// script.js
 // Wrap your code in an IIFE to avoid polluting the global namespace
 (function () {
     // Declare variables that will be used across functions
