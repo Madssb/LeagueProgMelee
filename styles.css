@@ -153,3 +153,11 @@ body.dark-mode #dark-mode-toggle {
     color: #ffffff;
     /* White text for contrast */
 }
+
+.flex-container>.relic>img {
+    width: 80px;
+    height: 80px;
+    /* border: 2px solid; */
+    object-fit: scale-down;
+    /* Ensures the image scales properly */
+}
